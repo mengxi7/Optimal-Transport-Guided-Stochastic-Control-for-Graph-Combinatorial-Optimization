@@ -1,0 +1,9 @@
+__pycache__/
+*.py[cod]
+*.log
+*.pth
+*.pt
+*.pickle
+.DS_Store
+model_path/
+data/
