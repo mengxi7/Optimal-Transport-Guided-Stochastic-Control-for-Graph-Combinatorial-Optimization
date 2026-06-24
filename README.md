@@ -4,6 +4,10 @@ This repository contains the implementation for **Optimal Transport-Guided
 Stochastic Control for Graph Combinatorial Optimization**. The code supports
 MaxCut, Maximum Independent Set (MIS), and Maximum Clique (MaxClique).
 
+## Paper
+
+- [Optimal Transport-Guided Stochastic Control for Graph Combinatorial Optimization](ot_guided_stochastic_control_preprint.pdf)
+
 ## Structure
 
 - `ot_gco/data.py`: dataset loading and Jraph-to-PyG conversion.
